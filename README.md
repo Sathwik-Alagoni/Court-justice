@@ -1,7 +1,7 @@
 
 
 
-# Project-2: Court-Justice-webpage
+# Project-3: Court-Justice-webpage
 
 >## Created by Sathwik 
 
